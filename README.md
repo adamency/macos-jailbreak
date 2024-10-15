@@ -1,4 +1,4 @@
-# Whitelisting any unverified program
+## Whitelisting any unverified program
 
 1. Whitelist the binary for next run
 
@@ -14,7 +14,7 @@ spctl --add <myprogram>
 
 [source1](https://github.molgen.mpg.de/pages/bs/macOSnotes/mac/mac_procs_unsigned.html)
 
-# Change Notification Sound
+## Change Notification Sound
 
 NO SOLUTION FOUND YET
 
