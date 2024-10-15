@@ -13,3 +13,12 @@ spctl --add <myprogram>
 4.  The program can now be opened/run without any restriction
 
 [source1](https://github.molgen.mpg.de/pages/bs/macOSnotes/mac/mac_procs_unsigned.html)
+
+# Change Notification Sound
+
+NO SOLUTION FOUND YET
+
+##### Threads
+
+https://apple.stackexchange.com/questions/302099/how-to-change-or-modify-the-macos-notifications-sound?answertab=scoredesc#tab-top
+https://apple.stackexchange.com/questions/210072/where-are-the-alert-tone-audio-files-located-in-os-x/210074#210074
