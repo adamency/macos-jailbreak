@@ -23,3 +23,7 @@ NO SOLUTION FOUND YET
 https://apple.stackexchange.com/questions/302099/how-to-change-or-modify-the-macos-notifications-sound?answertab=scoredesc#tab-top
 https://apple.stackexchange.com/questions/466822/how-to-change-default-notification-sound-tri-tone-for-all-apps-via-terminal
 https://apple.stackexchange.com/questions/210072/where-are-the-alert-tone-audio-files-located-in-os-x/210074#210074
+
+## Have more than 1 external screen
+
+NO SOLUTION FOUND YET
