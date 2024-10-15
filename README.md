@@ -14,6 +14,8 @@ spctl --add <myprogram>
 
 [source1](https://github.molgen.mpg.de/pages/bs/macOSnotes/mac/mac_procs_unsigned.html)
 
+## Desynchronize mouse/trackpad scrolling direction (use normal scrolling paradigm)
+
 ## Change Notification Sound
 
 NO SOLUTION FOUND YET
