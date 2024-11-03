@@ -8,7 +8,7 @@
 <img width="200" alt="Screenshot 2024-11-03 at 17 44 48" src="https://github.com/user-attachments/assets/e83c70ff-e9c1-44d7-8d93-75478f9cdcf1">&nbsp;>>
 <img width="230" alt="Screenshot 2024-11-03 at 18 07 25" src="https://github.com/user-attachments/assets/1a3fbaf8-bbb0-4c1a-885a-f249ce562b1a">
 
-- In `Menu Title`: Sype the exact string seen (i.e. capital case, special characters, etc... must all correspond exactly) in the menu bar for your selected item.
+- In `Menu Title`: Type the exact string seen (i.e. capital case, special characters, etc... must all correspond exactly) in the menu bar for your selected item.
 - In `Keyboard Shortcut`: Click on the black box and type your desired shortcut
 
 By default, this will apply to all applications. If you want it to apply only to a specific application, simply click on the `Application` picker and replace the choice "All Applications" with the one you desire.
