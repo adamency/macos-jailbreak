@@ -17,7 +17,7 @@ By default, this will apply to all applications. If you want it to apply only to
 
 It is necessary to add the `...` as this is what is shown in the Menu Bar.
 
-<img width="200" alt="Screenshot 2024-11-03 at 17 53 54" src="https://github.com/user-attachments/assets/c15b21c1-5763-4ac7-b823-9df56ee14a4b">
+<img width="300" alt="Screenshot 2024-11-03 at 17 53 54" src="https://github.com/user-attachments/assets/c15b21c1-5763-4ac7-b823-9df56ee14a4b">
 
 ### Maximize Any Window with `Ctrl+F` (or `<other>`)
 
@@ -25,7 +25,7 @@ To go down a specific menu (to prevent selecting another menu item also called Z
 
 If `Window->` is not specified to constrain the shortcut to the "Window" menu, this will try to find a `Zoom` menu item anywhere.
 
-<img width="200" alt="Screenshot 2024-11-03 at 17 53 30" src="https://github.com/user-attachments/assets/3eed3431-47bf-4537-927a-784eedaa3be0">
+<img width="300" alt="Screenshot 2024-11-03 at 17 53 30" src="https://github.com/user-attachments/assets/3eed3431-47bf-4537-927a-784eedaa3be0">
 
 
 ## Whitelist/Allow Any Unverified Program
@@ -51,7 +51,7 @@ spctl --add <myprogram>
 - Go to `Preferences` >> `General` >> `Scroll` >> Enable `Reverse Scroll`
 - Add to `Open at Login` apps to persist across system restarts.
 
-<img width="464" alt="Screenshot 2024-11-03 at 18 14 47" src="https://github.com/user-attachments/assets/5e612195-e28e-4257-b1b7-9f2555b55da6">
+<img width="300" alt="Screenshot 2024-11-03 at 18 14 47" src="https://github.com/user-attachments/assets/5e612195-e28e-4257-b1b7-9f2555b55da6">
 
 ## Change Notification Sound
 
