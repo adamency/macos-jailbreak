@@ -28,7 +28,7 @@ If `Window->` is not specified to constrain the shortcut to the "Window" menu, t
 <img width="200" alt="Screenshot 2024-11-03 at 17 53 30" src="https://github.com/user-attachments/assets/3eed3431-47bf-4537-927a-784eedaa3be0">
 
 
-## Whitelisting any unverified program
+## Whitelist/Allow Any Unverified Program
 
 1. Whitelist the binary for next run
 
@@ -44,7 +44,14 @@ spctl --add <myprogram>
 
 [source1](https://github.molgen.mpg.de/pages/bs/macOSnotes/mac/mac_procs_unsigned.html)
 
-## Desynchronize mouse/trackpad scrolling direction (use normal scrolling paradigm)
+## Desynchronize mouse/trackpad Scrolling Direction (use normal scrolling paradigm)
+
+- Install Mos: https://github.com/Caldis/Mos/blob/master/README.enUS.md (main readme is in chinese)
+- Run Mos
+- Go to `Preferences` >> `General` >> `Scroll` >> Enable `Reverse Scroll`
+- Add to `Open at Login` apps to persist across system restarts.
+
+<img width="464" alt="Screenshot 2024-11-03 at 18 14 47" src="https://github.com/user-attachments/assets/5e612195-e28e-4257-b1b7-9f2555b55da6">
 
 ## Change Notification Sound
 
