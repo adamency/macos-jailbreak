@@ -65,6 +65,30 @@ spctl --add <myprogram>
 
 <img width="300" alt="Screenshot 2024-11-03 at 18 14 47" src="https://github.com/user-attachments/assets/5e612195-e28e-4257-b1b7-9f2555b55da6">
 
+## Set separate Audio Output per Application
+
+***No open-source solution found yet***
+
+Some open-source projects for audio input/output manipulation on macos exist but none seem to allow using different audio outputs for different apps:
+
+#### [BlackHole](https://github.com/ExistentialAudio/BlackHole)
+
+Mainly for inter-app audio input/output management: e.g. redirecting audio output from apps as audio input to other apps.
+
+But doesn't currently support redirecting app audio outputs to different audio output device/sink (<=> "sound output" in macos terminology)
+
+[Related Issue](https://github.com/ExistentialAudio/BlackHole/discussions/40)
+
+#### [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)
+
+Provides separate volume setting per app, but again no separate audio output device.
+
+[Related Issue](https://github.com/kyleneideck/BackgroundMusic/issues/661)
+
+#### [Proxy Audio Device](https://github.com/briankendall/proxy-audio-device)
+
+TODO
+
 ## Have more than 1 external screen
 
 Macbook Airs are artificially limited to 1 external monitor.
