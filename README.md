@@ -19,7 +19,9 @@ The place to add shortcuts is there:
 
 By default, this will apply to all applications. If you want it to apply only to a specific application, simply click on the `Application` picker and replace the choice "All Applications" with the one you desire.
 
-### Open System Settings with `Cmd+Shift+,`
+### Examples
+
+#### Open System Settings with `Cmd+Shift+,`
 
 The System Settings is actually a menu item present for every app on the apple icon, which thus allows us to open it via a keyboard shortcut no matter which app is currently focused.
 
@@ -29,7 +31,7 @@ It is necessary to add the `...` as this is what is shown in the Menu Bar.
 
 <img width="300" alt="Screenshot 2024-11-03 at 17 53 54" src="https://github.com/user-attachments/assets/c15b21c1-5763-4ac7-b823-9df56ee14a4b">
 
-### Maximize Any Window with `Ctrl+F` (or `<other>`)
+#### Maximize Any Window with `Ctrl+F` (or `<other>`)
 
 The menu item action to maximize a window is called `Zoom` on macos. It is found in the `Window` menu.
 
