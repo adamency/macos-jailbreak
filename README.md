@@ -65,16 +65,6 @@ spctl --add <myprogram>
 
 <img width="300" alt="Screenshot 2024-11-03 at 18 14 47" src="https://github.com/user-attachments/assets/5e612195-e28e-4257-b1b7-9f2555b55da6">
 
-## Change Notification Sound
-
-NO SOLUTION FOUND YET
-
-##### Threads
-
-https://apple.stackexchange.com/questions/302099/how-to-change-or-modify-the-macos-notifications-sound?answertab=scoredesc#tab-top
-https://apple.stackexchange.com/questions/466822/how-to-change-default-notification-sound-tri-tone-for-all-apps-via-terminal
-https://apple.stackexchange.com/questions/210072/where-are-the-alert-tone-audio-files-located-in-os-x/210074#210074
-
 ## Have more than 1 external screen
 
 Macbook Airs are artificially limited to 1 external monitor.
@@ -86,3 +76,14 @@ It is possible to overcome this limitation via a software middleman technology c
 It however needs a hardware component alongside it to work: a DisplayLink-supported USB hub.
 
 The idea is that the hub will convert the hardware output to a digital input that will then be sent/received to/from the laptop into the DisplayLink software that will then interface with the OS to make it think it has two physical monitors plugged and bypassing the CPU limitation. (need better explanation)
+
+## Change Notification Sound
+
+NO SOLUTION FOUND YET
+
+##### Threads
+
+https://apple.stackexchange.com/questions/302099/how-to-change-or-modify-the-macos-notifications-sound?answertab=scoredesc#tab-top
+https://apple.stackexchange.com/questions/466822/how-to-change-default-notification-sound-tri-tone-for-all-apps-via-terminal
+https://apple.stackexchange.com/questions/210072/where-are-the-alert-tone-audio-files-located-in-os-x/210074#210074
+
