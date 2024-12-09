@@ -15,7 +15,7 @@ The place to add shortcuts is there:
 - In `Menu Title`: Type the exact string seen (i.e. capital case, special characters, etc... must all correspond exactly) in the menu bar for your selected item.
 - In `Keyboard Shortcut`: Click on the black box and type your desired shortcut
 
-*NB: To go down a specific menu (to prevent selecting another menu item also called Zoom), we must use the keyword `->`.*
+*NB: To go down a specific menu in the menu bar, we must use the keyword `->`. I.e. if we want to target the menu item `Close Tab` under the menu `File`, the "Menu Title" should be `File->Close Tab`.*
 
 By default, this will apply to all applications. If you want it to apply only to a specific application, simply click on the `Application` picker and replace the choice "All Applications" with the one you desire.
 
