@@ -77,4 +77,12 @@ https://apple.stackexchange.com/questions/210072/where-are-the-alert-tone-audio-
 
 ## Have more than 1 external screen
 
-NO SOLUTION FOUND YET
+Macbook Airs are artificially limited to 1 external monitor.
+
+***No open-source solution found yet***
+
+It is possible to overcome this limitation via a software middleman technology called DisplayLink.
+
+It however needs a hardware component alongside it to work: a DisplayLink-supported USB hub.
+
+The idea is that the hub will convert the hardware output to a digital input that will then be sent/received to/from the laptop into the DisplayLink software that will then interface with the OS to make it think it has two physical monitors plugged and bypassing the CPU limitation. (need better explanation)
