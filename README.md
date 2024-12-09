@@ -1,5 +1,9 @@
 ## Assign Keyboard Shortcut to ANY Menu Item in the Menu Bar
 
+As graphical programs on macos are restricted to a standard menu bar API, it is possible to assign a keyboard shortcut for any action in the menu bar for any given app or even all applications (provided the app provides the menu item in question in its menu bar).
+
+The place to add shortcuts is there:
+
 - `System Settings` >> `Keyboard` >> `Keyboard Shortcuts` >> `App Shortcuts` >> `+`
 
 <img width="90" alt="Screenshot 2024-10-31 at 18 11 42" src="https://github.com/user-attachments/assets/8c3c8aeb-c669-42c0-8968-3fd535443a07">&nbsp;>>
@@ -11,9 +15,15 @@
 - In `Menu Title`: Type the exact string seen (i.e. capital case, special characters, etc... must all correspond exactly) in the menu bar for your selected item.
 - In `Keyboard Shortcut`: Click on the black box and type your desired shortcut
 
+*NB: To go down a specific menu (to prevent selecting another menu item also called Zoom), we must use the keyword `->`.*
+
 By default, this will apply to all applications. If you want it to apply only to a specific application, simply click on the `Application` picker and replace the choice "All Applications" with the one you desire.
 
 ### Open System Settings with `Cmd+Shift+,`
+
+The System Settings is actually a menu item present for every app on the apple icon, which thus allows us to open it via a keyboard shortcut no matter which app is currently focused.
+
+**Menu Item Path: `System Settings...`**
 
 It is necessary to add the `...` as this is what is shown in the Menu Bar.
 
@@ -21,9 +31,11 @@ It is necessary to add the `...` as this is what is shown in the Menu Bar.
 
 ### Maximize Any Window with `Ctrl+F` (or `<other>`)
 
-To go down a specific menu (to prevent selecting another menu item also called Zoom), we must use the keyword `->`.
+The menu item action to maximize a window is called `Zoom` on macos. It is found in the `Window` menu.
 
-If `Window->` is not specified to constrain the shortcut to the "Window" menu, this will try to find a `Zoom` menu item anywhere.
+**Menu Item Path: `Window->Zoom`**
+
+If `Window->` is not specified to constrain the shortcut to the "Window" menu, this will try to find a `Zoom` menu item anywhere (which can happen).
 
 <img width="300" alt="Screenshot 2024-11-03 at 17 53 30" src="https://github.com/user-attachments/assets/3eed3431-47bf-4537-927a-784eedaa3be0">
 
